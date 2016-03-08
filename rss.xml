@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Hajk]]></title>
         <description><![CDATA[Hajk]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/whales-and-this-lake/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 11:48:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 08 Mar 2016 12:41:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/whales-and-this-lake/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0dbf86fe-ed72-4f9a-a015-8bb95ec5a4b3.png">]]></description>
+            <link>https://thegrid.ai/whales-and-this-lake/390ed6c9-eb13-42a9-b7d1-91ae7a4c9141/index.html</link>
+            <guid isPermaLink="false">390ed6c9-eb13-42a9-b7d1-91ae7a4c9141</guid>
+            <pubDate>Tue, 08 Mar 2016 12:41:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget elementum arcu, eu congue lacus. Vestibulum sapien eros, pulvinar sit amet dui et, feugiat pretium velit. Nulla sit amet nulla risus. Praesent ante tellus, pellentesque quis aliquam eu, lacinia sed metus. Donec bibendum ornare lacus quis condimentum. Ut nulla lorem, lobortis at finibus vehicula, auctor vel mi. Ut in elementum turpis. Sed eu facilisis justo, non pellentesque libero. Sed dui erat, interdum sit amet velit nec, scelerisque tempor est. Nulla vitae pretium mi. Sed varius augue ornare tempor mattis. Nulla facilisi. Sed malesuada ante eu fringilla rhoncus. Morbi hendrerit tortor eget posuere aliquet.</p>]]></description>
-            <link>undefinedlorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-nul/index.html</link>
+            <link>https://thegrid.ai/whales-and-this-lake/lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-nul/index.html</link>
             <guid isPermaLink="false">ac3c82e9-339d-4855-a993-d80a9dcd4128</guid>
             <pubDate>Tue, 08 Mar 2016 11:48:05 GMT</pubDate>
         </item>
