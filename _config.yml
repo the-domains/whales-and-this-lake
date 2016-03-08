@@ -1,0 +1,28 @@
+name: 'Whales & This Lake'
+favicon: null
+layout_spectrum: 0.2282113207038492
+typography_spectrum: 0.13972411234863102
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9748242879286408
+  lightness: 0.9795939216855913
+  saturation: 0.20548510132357478
+  rhythmicContrast: 0.9151423557195812
+purpose: []
